@@ -2,10 +2,10 @@
 <h3 align="center">A passionate mern-stack developer from IL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orelchalfon&label=Profile%20views&color=0e75b6&style=flat" alt="orelchalfon" /> </p>
-  Full Stack Developer specializing in the MERN stack (React, Node.js, Express, MongoDB) and well-versed in MVC
-  architecture, Framer Motion for dynamic UIs, and AI-driven development workflows. Skilled in enterprise-level
-  C#/.NET and SQL Server, with a proven ability to collaborate effectively and adapt quickly to new technologies.
-  Seeking to deliver high-impact solutions and contribute to forward-thinking engineering teams.
+- Full Stack Developer specializing in the MERN stack (React, Node.js, Express, MongoDB) and well-versed in MVC
+- architecture, Framer Motion for dynamic UIs, and AI-driven development workflows. Skilled in enterprise-level
+- C#/.NET and SQL Server, with a proven ability to collaborate effectively and adapt quickly to new technologies.
+- Seeking to deliver high-impact solutions and contribute to forward-thinking engineering teams.
 - 🔭 I’m currently working on **TamarAI**
 - 👨‍💻 All of my projects are available at [ocdevfolio.netlify.app](ocdevfolio.netlify.app)
 
