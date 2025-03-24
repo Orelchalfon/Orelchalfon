@@ -6,8 +6,6 @@
 - architecture, Framer Motion for dynamic UIs, and AI-driven development workflows. Skilled in enterprise-level
 - C#/.NET and SQL Server, with a proven ability to collaborate effectively and adapt quickly to new technologies.
 - Seeking to deliver high-impact solutions and contribute to forward-thinking engineering teams.
-- 🔭 I’m currently working on **TamarAI**
-- 👨‍💻 All of my projects are available at [ocdevfolio.netlify.app](ocdevfolio.netlify.app)
 
 
 <h3 align="left">Connect with me:</h3>
