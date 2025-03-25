@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orelchalfon&label=Profile%20views&color=0e75b6&style=flat" alt="orelchalfon" /> </p>
 <h1 align="left">Hello World!, I'm Orel, a IL Full-Stack Developer 👋🏼</h1>
 <p>
-🛜 currently working on my own [webpage](ocdevfolio.netlify.com)<br>👨🏼‍🎓 studying Web scraping in udemy <br>🎬 just started out with my youtube channel <i>OCD{ev}</i> 
+🛜 currently working on my own [webpage](ocdevfolio.netlify.app)<br>👨🏼‍🎓 studying Web scraping in udemy <br>🎬 just started out with my youtube channel <i>OCD{ev}</i> 
 </p>
 
 
