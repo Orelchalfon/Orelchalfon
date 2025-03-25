@@ -1,7 +1,7 @@
 <div  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orelchalfon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Orelchalfon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Orelchalfon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Orelchalfon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  alt="stats graph" height="100" />
+  <img src="https://streak-stats.demolab.com?user=Orelchalfon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"  alt="streak graph" height="125"   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Orelchalfon&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2"  alt="languages graph" height="100"  />
 </div>
 <hr/>
 <h1 align="center">Hello World!, I'm Orel,an IL Full-Stack Developer 👋🏼</h1>
